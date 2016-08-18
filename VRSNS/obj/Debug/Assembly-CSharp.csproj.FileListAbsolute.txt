@@ -1,0 +1,44 @@
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Owner\Desktop\전종설\VRSNS\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Owner\Desktop\전종설\VRSNS\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\전종설\VRSNS\obj\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Desktop\전종설\VRSNS\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\obj\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Owner\Documents\카카오톡 받은 파일\VRSNS (6)\Temp\bin\Debug\UnityEngine.Networking.xml
